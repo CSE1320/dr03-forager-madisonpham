@@ -1,0 +1,12 @@
+
+> forager@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.1.7 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.0.1.25:3000
+
+ ✓ Starting...
+ ✓ Ready in 1121ms
+ ○ Compiling / ...
+ ✓ Compiled / in 8.8s
